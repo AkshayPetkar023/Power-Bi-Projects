@@ -1,6 +1,6 @@
 # Power-Bi-Projects
 
-# 1.Adventure Works Sales Analysis
+# 1. Adventure Works Sales Analysis
 This file contains the Adventure Works Sales Report, which provides a comprehensive analysis of sales, profit, and production cost data. The report includes various key performance indicators (KPIs) and insightful charts to visualize the data. The report utilizes slicers to enable filtering by year, quarter, month, country, and category, allowing users to explore the data at different levels of granularity.
 
 KPIs:
@@ -66,4 +66,5 @@ Attrition by Years at Company: This graph visualizes the attrition rate based on
 
 Slicer:
 The dashboard includes a slicer that enables data filtering based on departments. Use the slicer buttons to select specific departments and analyze the HR data for those departments exclusively. This interactive feature allows for a focused analysis of HR metrics and trends within specific departments.
-![image](https://github.com/AkshayPetkar023/Power-Bi-Projects/assets/102145773/9621f6e0-1f24-4e58-89d4-7282bdd5535d)
+![image](https://github.com/AkshayPetkar023/Power-Bi-Projects/assets/102145773/9c649b5d-d4ab-41cf-904c-a2b6f5df7212)
+
