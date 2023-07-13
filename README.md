@@ -25,7 +25,45 @@ Territory-wise Sales: This chart visualizes the sales data segmented by territor
 
 ![image](https://github.com/AkshayPetkar023/Power-Bi-Projects/assets/102145773/3f8ce3b7-18bd-4875-8c69-acbd12574311)
 
-# 2. Diwali Sales Analysis 
+# 2. Olist Store Analysis
+
+The Olist Store Analysis is a comprehensive examination of sales data from the Olist e-commerce platform. This analysis provides valuable insights into the performance of Olist's online stores.
+The analysis presents the data using visually compelling charts and graphs that effectively visualize trends, patterns, and correlations within the Olist Store sales data. These visuals enhance the understanding of the data and facilitate data-driven decision-making.
+
+KPIs:
+
+Total Orders: Provides an overview of the total number of orders received by Olist stores. Tracking this metric helps businesses understand their order volume and identify trends over time.
+
+Total Payments: Displays the total payment amount received by Olist stores. Monitoring this metric enables businesses to evaluate revenue generation and identify any fluctuations in payment trends.
+
+Weekday Payments: Presents the total payment amount received on weekdays. This KPI allows businesses to analyze variations in payment patterns throughout the week and optimize marketing and operational efforts accordingly.
+
+Weekend Payments: Highlights the total payment amount received on weekends. Understanding the payment patterns on weekends helps businesses identify peak periods and allocate resources effectively.
+
+Charts :
+
+1. Weekday vs. Weekend Payments
+The first chart in the dashboard compares payments made on weekdays versus weekends. This visual representation allows businesses to identify any variations in payment patterns throughout the week. By understanding peak payment periods, businesses can optimize marketing efforts and resource allocation for maximum impact.
+
+2. Payment Type-wise Payments
+The second chart categorizes payments by payment type, providing insights into the most commonly used payment methods by customers. This information helps businesses optimize their payment processing systems and ensure a seamless customer experience. By understanding preferred payment methods, businesses can improve conversions and customer satisfaction.
+
+3. Review Score by Shipping Days
+The third feature of the dashboard presents a table that showcases the review scores based on shipping days. By analyzing this data, businesses gain insights into how shipping durations impact customer satisfaction. This information allows businesses to improve their shipping processes, reduce delivery time, and enhance customer experience.
+
+4. Top 5 Cities
+The fourth chart highlights the top 5 cities where Olist stores are performing exceptionally well. Identifying these cities enables businesses to allocate resources effectively, plan targeted marketing campaigns, and tap into new growth opportunities. By understanding regional success, businesses can tailor their strategies to meet specific market demands.
+
+5. Total Orders by Year and Quarter
+The fifth chart provides a comprehensive view of total orders by year and quarter. Analyzing this data helps businesses uncover trends and patterns over time, facilitating better resource planning, inventory management, and forecasting. Understanding sales performance across different time periods enables strategic decision-making and goal setting.
+
+Slicers
+The dashboard includes three interactive slicers: year, quarter, and customer city. These slicers allow users to filter and analyze data based on specific time frames and customer locations. With the slicers, businesses can gain deeper insights into their target markets, identify regional trends, and tailor their strategies accordingly.
+
+![image](https://github.com/AkshayPetkar023/Power-Bi-Projects/assets/102145773/b8d6a539-9f1c-4349-b898-4003cc26f75d)
+
+
+# 3. Diwali Sales Analysis 
 
 This file contains the Diwali Sales Report, which provides a comprehensive analysis of sales data during the Diwali festival season. The report includes various key performance indicators (KPIs) and insightful charts to analyze customer demographics, sales trends, and product performance. Additionally, the report features a slicer with buttons to filter data by regions, facilitating interactive exploration of the sales data.
 
@@ -59,7 +97,7 @@ The slicer in the report allows you to filter the data based on regions. Use the
 ![image](https://github.com/AkshayPetkar023/Power-Bi-Projects/assets/102145773/28cabcb4-9a2a-4bd7-a61f-095f307cf639)
 
 
-# 3. HR Analytics Dashboard.
+# 4 . HR Analytics Dashboard.
 
 This repository contains the HR Analytics Dashboard, which provides a comprehensive analysis of human resources data. The dashboard includes various key performance indicators (KPIs) and insightful visualizations to understand employee attrition, salary distribution, age demographics, education impact, and years of service within the company. The dashboard aims to provide valuable insights into HR metrics and enable data-driven decision-making.
 
